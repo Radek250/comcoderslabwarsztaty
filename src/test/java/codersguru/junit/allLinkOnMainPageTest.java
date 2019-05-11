@@ -51,7 +51,7 @@ public class allLinkOnMainPageTest {
                 if (isValid(link.split(":")[1])) {
                     System.out.println("Mail jest ok: " + link);
                 } else {
-                    System.out.println("Fuuuuuuck: " + link);
+                    System.out.println("Ooooooo nie! Nie działa ten link: " + link);
                 }
 
             }
@@ -68,7 +68,7 @@ public class allLinkOnMainPageTest {
                 respCode = huc.getResponseCode();
 
                 if (respCode >= 300) {
-                    System.out.println("Fuuuuck: " + link);
+                    System.out.println("Ooooooo nie! Nie działa ten link: " + link);
                 } else {
                     System.out.println(link + " is a valid link");
                 }
