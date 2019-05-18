@@ -1,7 +1,5 @@
-package codersguru.cucumber.companyUserRegistration;
+package codersguru;
 
-import codersguru.cucumber.RegistrationPage;
-import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -41,7 +39,7 @@ public class CompanyUserSteps {
     @And("^I fill company form \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\"$")
     public void iFillCompanyForm(String arg0, String arg1, String arg2, String arg3, String arg4, String arg5, String arg6, String arg7, String arg8, String arg9) {
         // Write code here that turns the phrase above into concrete actions
-        RegistrationCompanyPage registrationPage = new RegistrationCompanyPage(driver);
+        RegistrationPage registrationPage = new RegistrationPage(driver);
         registrationPage.registerCompanyUser(arg1, arg2, arg3, arg4, arg5, arg6, arg7, arg8);
 
     }

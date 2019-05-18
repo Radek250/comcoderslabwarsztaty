@@ -11,7 +11,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
-import java.net.ProtocolException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75fc4f46-9468-41cf-95b8-27cbb804ddbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/BookADate.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/ChooseMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/ChooseVisaCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/PrivateUserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/RegisterPrivateUser.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/ReservationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/bookADateSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/chooseTechnology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codersguru/junit/secondWay/allLinksOnMainPage2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels/FlightReservation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/phptravels/ReserveAFlightSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/comcoderslabwarsztaty.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/codersguru/junit/allLinkOnMainPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/codersguru/junit/allLinksOnMainPage2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/phptravels/ReserveAFlightSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/CompanyUserSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codersguru/CompanyUserSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/RegisterCompanyUser.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codersguru/RegisterCompanyUser.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codersguru/junit/allLinkOnMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codersguru/junit/allLinkOnMainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/phptravels/FlightDataForm.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/BookADate.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/chooseTechnology.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/bookADateSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/RegisterPrivateUser.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/PrivateUserSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/RegisterCompanyUser.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/PrivateUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CompanyUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/RegisterCompanyUser.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/GenerateNIP.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/junit/allLinksOnMainPage2Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/junit/secondWay/allLinksOnMainPage2Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/bookADate/bookADate.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/bookADateSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/bookADate/bookADateSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/PrivateUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/ReservationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/chooseTechnology.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/ChooseVisaCardPayment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/bookADate.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/CompanyUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/CompanyUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/RegistrationCompanyPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/bookADateSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/PaymentPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/ChooseMentor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReserveAFlightSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/CompanyUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/chooseTechnology.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/ChooseMentor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/ChooseVisaCardPayment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/PaymentPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/bookADateSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/ReservationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels/FlightDataForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/RegisterPrivateUser.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/junit/allLinkOnMainPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/cucumber/PrivateUserSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/junit/secondWay/CheckAllLinks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels/FlightsInMainMenu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels/FlightReservation.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/phptravels/ReserveAFlightSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codersguru/chooseTechnology.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comcoderslabwarsztaty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comcoderslabwarsztaty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comcoderslabwarsztaty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comcoderslabwarsztaty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comcoderslabwarsztaty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comcoderslabwarsztaty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comcoderslabwarsztaty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comcoderslabwarsztaty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comcoderslabwarsztaty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comcoderslabwarsztaty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comcoderslabwarsztaty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comcoderslabwarsztaty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codersguru" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/codersguru" />
+      <recent name="$PROJECT_DIR$/src/test/java/codersguru/cucumber" />
+      <recent name="$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: BookADate">
+    <configuration name="Feature: BookADate" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/codersguru/BookADate.feature" />
+      <option name="GLUE" value="codersguru" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="comcoderslabwarsztaty" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: BookADate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: FlightReservation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/phptravels/FlightReservation.feature" />
+      <option name="GLUE" value="phptravels" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="comcoderslabwarsztaty" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: FlightReservation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: RegisterPrivateUser" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/codersguru/RegisterPrivateUser.feature" />
+      <option name="GLUE" value="codersguru" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="comcoderslabwarsztaty" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: RegisterPrivateUser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Register Company User (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/codersguru/RegisterCompanyUser.feature" />
+      <option name="GLUE" value="codersguru" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="comcoderslabwarsztaty" />
+      <option name="NAME_FILTER" value="^Register Company User$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Register Company User$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Register Company User" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Reserve a new flight" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/phptravels/FlightReservation.feature" />
+      <option name="GLUE" value="phptravels" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="comcoderslabwarsztaty" />
+      <option name="NAME_FILTER" value="^Reserve a new flight$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Reserve a new flight$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Reserve a new flight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Register Company User (1)" />
+      <item itemvalue="Cucumber java.Scenario: Reserve a new flight" />
+      <item itemvalue="Cucumber java.Feature: FlightReservation" />
+      <item itemvalue="Cucumber java.Feature: RegisterPrivateUser" />
+      <item itemvalue="Cucumber java.Feature: BookADate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: BookADate" />
+        <item itemvalue="Cucumber java.Feature: RegisterPrivateUser" />
+        <item itemvalue="Cucumber java.Feature: FlightReservation" />
+        <item itemvalue="Cucumber java.Scenario: Reserve a new flight" />
+        <item itemvalue="Cucumber java.Scenario: Register Company User (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75fc4f46-9468-41cf-95b8-27cbb804ddbc" name="Default Changelist" comment="" />
+      <created>1556370755618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556370755618</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1557533251244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557533251244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Reserve_a_new_flight - 2019.05.18 at 13h 58m 14s.xml">
+      <configuration name="Scenario: Reserve a new flight" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Reserve_a_new_flight - 2019.05.18 at 13h 59m 33s.xml">
+      <configuration name="Scenario: Reserve a new flight" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Reserve_a_new_flight - 2019.05.18 at 14h 53m 55s.xml">
+      <configuration name="Scenario: Reserve a new flight" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FlightReservation - 2019.05.18 at 14h 55m 20s.xml">
+      <configuration name="Feature: FlightReservation" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Reserve_a_new_flight - 2019.05.18 at 14h 57m 46s.xml">
+      <configuration name="Scenario: Reserve a new flight" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FlightReservation - 2019.05.18 at 15h 12m 34s.xml">
+      <configuration name="Feature: FlightReservation" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FlightReservation - 2019.05.18 at 15h 13m 54s.xml">
+      <configuration name="Feature: FlightReservation" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__FlightReservation - 2019.05.18 at 15h 17m 20s.xml">
+      <configuration name="Feature: FlightReservation" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__RegisterPrivateUser - 2019.05.18 at 15h 27m 42s.xml">
+      <configuration name="Feature: RegisterPrivateUser" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__BookADate - 2019.05.18 at 15h 39m 43s.xml">
+      <configuration name="Feature: BookADate" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3049253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28941685" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.325054" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/GenerateNIP.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/junit/allLinksOnMainPage2Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/chooseTechnology.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/ReservationPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/companyUserRegistration/RegistrationCompanyPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/CompanyUserSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/RegistrationPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/RegisterPrivateUser.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/RegisterCompanyUser.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/bookADateSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/PaymentPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/junit/secondWay/allLinksOnMainPage2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/ChooseMentor.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/ChooseVisaCardPayment.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/PrivateUserSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/cucumber/privateUserRegistration/bookADate.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/ChooseMentor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/ChooseVisaCardPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/junit/allLinkOnMainPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/CompanyUserSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/ReservationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/PaymentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2020#2028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/junit/secondWay/CheckAllLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels/FlightsInMainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels/FlightDataForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels/ReserveAFlightSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/phptravels/FlightReservation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/chooseTechnology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/bookADateSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/RegisterCompanyUser.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/PrivateUserSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/RegisterPrivateUser.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codersguru/BookADate.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>comcoderslabwarsztaty</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
